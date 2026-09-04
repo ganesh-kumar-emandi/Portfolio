@@ -80,7 +80,7 @@ Personal developer portfolio showcasing my projects, technical skills, and softw
 
 **Tech:** HTML • CSS • JavaScript • React.js
 
-🔗 [GitHub Repository](YOUR_PORTFOLIO_REPOSITORY_URL)
+🔗 [GitHub Repository](https://github.com/ganesh-kumar-emandi/Portfolio.git)
 
 🌐 [Live Portfolio](https://ganesh-kumar-portfolio.ai.studio/)
 
